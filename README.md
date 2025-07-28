@@ -6,4 +6,15 @@ Sequence Recognition – OCR (Optical Character Recognition) - CRNN
 
 Точность полного совпадения: 0.8495 (84.95%)
 Среднее edit distance: 0.28
-<img width="697" height="774" alt="image" src="https://github.com/user-attachments/assets/17ed660a-d8da-45e3-9bfd-c424a3edb631" />
+
+
+| Символ     | Accuracy (доля) |
+|------------|-----------------|
+| Провинция  | 0.9827          |
+| Буква1     | 0.9965          | 
+| Буква2     | 0.9965          |
+| Цифра1     | 0.9758          | 
+| Цифра2     | 0.9516          | 
+| Цифра3     | 0.9412          | 
+| Цифра4     | 0.9343          |
+| Цифра5     | 0.9204          | 
